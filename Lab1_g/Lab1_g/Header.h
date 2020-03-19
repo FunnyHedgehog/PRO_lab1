@@ -1,0 +1,3 @@
+void firstTask();
+
+void secondTask();

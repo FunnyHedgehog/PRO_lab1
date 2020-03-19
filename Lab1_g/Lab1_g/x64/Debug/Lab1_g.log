@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\sasha\source\repos\lab1_g\lab1_g\source.cpp(15): warning C4101: 'ierr': unreferenced local variable
+c:\users\sasha\source\repos\lab1_g\lab1_g\source.cpp(15): warning C4101: 'root_process': unreferenced local variable
+c:\users\sasha\source\repos\lab1_g\lab1_g\source.cpp(16): warning C4101: 'status': unreferenced local variable
+  Lab1_g.vcxproj -> C:\Users\Sasha\source\repos\Lab1_g\x64\Debug\Lab1_g.exe
